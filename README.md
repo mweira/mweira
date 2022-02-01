@@ -1,11 +1,11 @@
   ## **Hi, nice to meet you!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   
-  <p> - I’m @meirajoao or João Pedro Meira. </p> 
-  <p> - I'm studying Computer Science at Federal University of ABC (UFABC). </p> 
-  <p> - I’m interested in Java, Spring Boot, HTML, CSS and Javascript. </p>
-  <p> - I’m looking to collaborate on Back-End Projects. </p> 
-  <p> - My pronouns are He/Him (EN) and Ele/Dele (PT). </p> 
-  <p> - I speak both English and Brazilian Portuguese. </p>
+ * I’m @meirajoao or João Pedro Meira. 
+ * I'm studying Computer Science at Federal University of ABC (UFABC). 
+ * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
+ * I’m looking to collaborate on Back-End Projects. 
+ * My pronouns are He/Him (EN) and Ele/Dele (PT).
+ * I speak both English and Brazilian Portuguese. 
   
   ## My Stats 
   
