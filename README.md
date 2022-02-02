@@ -5,7 +5,7 @@
  * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
  * I’m looking to collaborate on Back-End Projects. 
  * My pronouns are He/Him (EN) and Ele/Dele (PT).
- * I speak both English and Brazilian Portuguese. 
+ * Speaking native Brazilian Portuguese & advanced English.
   
   ## My Stats 
   
