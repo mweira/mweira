@@ -4,7 +4,7 @@
  * I'm studying Computer Science at Federal University of ABC (UFABC). 
  * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
  * I’m looking to collaborate on Back-End Projects. 
- * My pronouns are He/Him (EN) and Ele/Dele (PT).
+ * My pronouns are Ele/Dele (PT) and He/Him (EN).
  * Speaking native Brazilian Portuguese & advanced English.
   
   ## My Stats 
