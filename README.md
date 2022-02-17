@@ -1,7 +1,7 @@
   # **Hi, nice to meet you!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   
  * I’m @mweira or João Pedro Meira. 
- * I'm studying Computer Science at Federal University of ABC (UFABC). 
+ * I'm studying Computer Science at [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
  * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
  * I’m looking to collaborate on Back-End Projects. 
  * My pronouns are Ele/Dele (PT) and He/Him (EN).
