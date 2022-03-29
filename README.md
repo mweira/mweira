@@ -1,3 +1,5 @@
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+  
   # **Hi, nice to meet you!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   
  * I’m @mweira or João Pedro Meira. 
