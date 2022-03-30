@@ -10,7 +10,7 @@
  * My pronouns are Ele/Dele (PT) and He/Him (EN).
  * Speaking native Brazilian Portuguese & advanced English.
   
-  ## My Stats 
+  ## My Stats :bar_chart:
   
   <a href="https://github.com/mweira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mweira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
