@@ -4,6 +4,7 @@
   
  * I’m @mweira or João Pedro Meira. 
  * I'm studying Computer Science at [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
+ * I'm attending a coding bootcamp at [Generation Brazil](https://brazil.generation.org/)
  * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
  * I’m looking to collaborate on Back-End Projects. 
  * My pronouns are Ele/Dele (PT) and He/Him (EN).
