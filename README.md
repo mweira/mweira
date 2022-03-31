@@ -9,6 +9,7 @@
 * My pronouns are Ele/Dele (PT) and He/Him (EN).
 * Speaking native Brazilian Portuguese & advanced English.
   
+
 ## *My Stats* 
   
   <a href="https://github.com/mweira">
