@@ -13,8 +13,8 @@
   ## My Stats :bar_chart:
   
   <a href="https://github.com/mweira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mweira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mweira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mweira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mweira&layout=compact&langs_count=7&theme=midnight-purple"/>
   
   ## *My skills* :nerd_face:
     
