@@ -1,7 +1,6 @@
  # **Hi, nice to meet you!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   
-* I’m @mweira or João Pedro Meira. 
-*<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+* I’m @mweira or João Pedro Meira. <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 * I'm studying Computer Science at [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
 * I'm attending a Coding Bootcamp at [Generation Brazil](https://brazil.generation.org/)
 * I’m interested in Java, Spring Boot, HTML, CSS and Javascript. 
