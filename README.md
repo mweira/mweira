@@ -10,13 +10,13 @@
  * My pronouns are Ele/Dele (PT) and He/Him (EN).
  * Speaking native Brazilian Portuguese & advanced English.
   
-  ## My Stats :bar_chart:
+  ## My Stats 
   
   <a href="https://github.com/mweira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mweira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mweira&layout=compact&langs_count=7&theme=midnight-purple"/>
   
-  ## *My skills* :nerd_face:
+  ## *My skills*
     
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Joao-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -27,7 +27,7 @@
   <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
-  ## *My contacts* :phone:
+  ## *My contacts*
     
   <a href = "mailto:jpmeira020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-meira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/mweira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/meira020" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
