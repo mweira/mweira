@@ -1,4 +1,4 @@
- # **Hi, nice to meet you!** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ # **Hi, nice to meet you!** 
   
 * I’m @mweira or João Pedro Meira.
 * I'm studying Computer Science at [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
