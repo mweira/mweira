@@ -5,7 +5,7 @@
 * I'm attending a Coding Bootcamp at [Generation Brazil](https://brazil.generation.org/)
 * I’m mostly interested in Java and its tools.
 * I’m looking to collaborate on Back-End Projects. 
-* My pronouns are Ele/Dele (PT) and He/Him (EN).
+* My pronouns are Ele/Dele (PT) and He/Him (EN). (http://pronoun.is/he)
 * Speaking native Brazilian Portuguese & advanced English.
 * __"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."__
 
