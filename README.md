@@ -1,10 +1,8 @@
- # **Hi, nice to meet you!** 
-  
-* I’m @mweira or João Pedro Meira.
-* Computer Science - [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
-* Bootcamp - [Generation Brazil](https://brazil.generation.org/)
-* My pronouns are Ele/Dele (PT) and He/Him (EN).
-* Speaking native Brazilian Portuguese & advanced English.
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm João Pedro</h1>
+<h3 align="center">A passionate software engineer from Brazil</h3>
+<div align="center">
+  <img src="https://fabriciorby.me/img/nave.3862804f.gif"/>
+</div>
 
 ## *My Stats* 
   
