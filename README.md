@@ -3,10 +3,8 @@
 * I’m @mweira or João Pedro Meira.
 * Computer Science - [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
 * Bootcamp - [Generation Brazil](https://brazil.generation.org/)
-* I’m mostly interested in Java and its tools.
 * My pronouns are Ele/Dele (PT) and He/Him (EN). (http://pronoun.is/he)
 * Speaking native Brazilian Portuguese & advanced English.
-* __"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."__
 
 ## *My Stats* 
   
