@@ -3,7 +3,7 @@
 * I’m @mweira or João Pedro Meira.
 * Computer Science - [Federal University of ABC (UFABC).](https://www.ufabc.edu.br/)
 * Bootcamp - [Generation Brazil](https://brazil.generation.org/)
-* My pronouns are Ele/Dele (PT) and He/Him (EN). (http://pronoun.is/he)
+* My pronouns are Ele/Dele (PT) and He/Him (EN).
 * Speaking native Brazilian Portuguese & advanced English.
 
 ## *My Stats* 
