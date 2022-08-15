@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm João Pedro</h1>
+<h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm João Pedro</h1>
 <h3 align="center">A passionate software engineer from Brazil 🇧🇷</h3>
 
 ## *My Stats* 
