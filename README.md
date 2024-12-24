@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineer based in São Paulo, Brazil 🇧🇷</h3>
+<h3 align="center"> Software engineer based in São Paulo, Brazil 🇧🇷</h3>
 
 ## *My Stats* 
   
