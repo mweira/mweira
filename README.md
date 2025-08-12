@@ -1,4 +1,5 @@
-<h3 align="center"> Cybersecurity, Data and Programming padawan based in São Paulo, Brazil 🇧🇷</h3>
+<h3 align="center"> Messing around cyber data and programming since a little kid 🇧🇷</h3>
+
 
 ## *My Stats* 
   
